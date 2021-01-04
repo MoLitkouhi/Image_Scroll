@@ -1,2 +1,5 @@
 *.rbc
 *.fyc
+
+# .idea/
+.idea/
